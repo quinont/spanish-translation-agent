@@ -1,2 +1,17 @@
-# spanish-translation-agent
-Agente que ocupa ollama y strandsagents para traducir de español a otro español
+# spanish-translation-agent: Traduciendo en todos los modismos españoles
+
+## De donde parte esta idea
+
+Esto parte de un gran problema que tenemos: las distintas implementaciones y modismos de español que existen a lo largo de Hispanoamérica y España. Entender y traducir estas variaciones puede ser un desafío.
+
+## ¿Qué se va a ocupar?
+
+Este es un repositorio diseñado principalmente para probar **[Ollama](https://ollama.com/)** y la librería para armar agentes **[Strands Agents](https://strandsagents.com/)**. A través del uso de estas tecnologías, buscamos construir soluciones inteligentes que entiendan y traduzcan estas diferencias del lenguaje.
+
+## Estamos actualizándolo
+
+Actualmente, el repositorio cuenta únicamente con el ejemplo en la carpeta `simple`. Sin embargo, estamos **under construction** y la idea es ir agregando nuevos ejemplos y casos de uso en breve.
+
+## Estructura del Proyecto
+
+- `simple/`: Un agente introductorio que traduce modismos del español argentino al chileno. Ingresa a esa carpeta para ver más detalles sobre cómo funciona y cómo ejecutarlo.
